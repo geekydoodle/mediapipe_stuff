@@ -39,7 +39,7 @@ hands = mphands.Hands(max_num_hands=numberhand)
 
 # Reading a frame from the Camara.
 
-frame = cv2.imread('/home/george/george/coding_place/python/projects/hand_tracking/files/img.jpg')
+frame = cv2.imread('img.jpg')
 
 # Converting BGR to RGB.
 
