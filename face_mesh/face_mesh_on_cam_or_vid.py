@@ -42,7 +42,7 @@ faces = mpmesh.FaceMesh(max_num_faces=numberface)
 
 cam = cv2.VideoCapture(0)
 
-# cam = cv2.VideoCapture('/home/george/george/coding_place/python/projects/face_mesh/files/video.mp4')
+# cam = cv2.VideoCapture('video.mp4')
 
 # Initializing previous frame time.
 
