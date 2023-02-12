@@ -40,7 +40,7 @@ faces = mpmesh.FaceMesh(max_num_faces=numberface)
 
 # Setting up img.
 
-frame = cv2.imread('/home/george/george/coding_place/python/projects/face_mesh/files/img.jpg')
+frame = cv2.imread('img.jpg')
 
 # Converting BGR to RGB.
 
