@@ -37,7 +37,7 @@ width = 900
 
 hands = mphands.Hands(max_num_hands=numberhand)
 
-# Reading a frame from the Camara.
+# Setting up img.
 
 frame = cv2.imread('img.jpg')
 
