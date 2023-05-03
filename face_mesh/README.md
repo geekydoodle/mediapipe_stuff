@@ -11,7 +11,7 @@ python face_mesh_on_cam_or_vid.py
 
 or
 
-hand_tracking_on_img.py
+face_mesh_on_img.py
 ```
 <h2>1. To use video</h2>
 
