@@ -38,7 +38,7 @@ pose = mppose.Pose()
 
 cam = cv2.VideoCapture(0)
 
-# cam = cv2.VideoCapture('/home/george/george/coding_place/python/projects/pose/files/video.mp4')
+# cam = cv2.VideoCapture('video.mp4')
 
 # Initializing previous frame time.
 
