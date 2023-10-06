@@ -44,4 +44,16 @@ source name_of_env/bin/activate
 pip install mediapipe
 ```
 
+<h3>Hey Hey don' worry this will work on raspberry pi 3 and 4</h3>
+
+```
+For the rpi-4: 
+
+pip install mediapipe-rpi4
+
+For the rpi-3:
+
+pip install mediapipe-rpi3
+
+```
 <p>Happy Computer Visioning!!!!!</p>
